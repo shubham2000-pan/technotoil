@@ -17,7 +17,7 @@
 ## Setup  Project
 
 Clone project by this command
-- git clone (https://github.com/shubham2000-pan/techontoil.git) 
+- git clone (https://github.com/shubham2000-pan/technotoil.git) 
 
 update composer 
 - composer update
